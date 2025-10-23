@@ -7,4 +7,4 @@
 - Computing speed
 - By-passing VS Code issues we experienced
 
-### In order to run the file, please put it in a Google Colag and run it all by clicking on "Tout exécuter"
+### In order to run the file, please put it in a Google Colag through your Google Drive and run it all by clicking on "Tout exécuter"
