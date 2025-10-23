@@ -7,4 +7,4 @@
 - Computing speed
 - By-passing VS Code issues we experienced
 
-### In order to run the file **yc_dynamics_hackathon1_subj3.ipynb**, please put it in a Google Colag through your Google Drive and run it all by clicking on "Tout exécuter"
+### In order to run the file **yc_dynamics_hackathon1_subj3.ipynb**, please run it throuhgh Google Colag or Notebook Jupyter by clicking on "Tout exécuter".
